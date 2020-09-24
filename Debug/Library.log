@@ -1,0 +1,15 @@
+﻿  books.c
+C:\Users\jju\source\repos\Library\Library\books.c(23,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\books.c(60,16): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\books.c(108,26): warning C4013: 'realloc' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\books.c(108,66): warning C4047: '=': 'BOOK *' differs in levels of indirection from 'int'
+C:\Users\jju\source\repos\Library\Library\books.c(142,24): warning C4013: 'malloc' undefined; assuming extern returning int
+  main.c
+C:\Users\jju\source\repos\Library\Library\main.c(11,21): warning C4013: 'readln' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\main.c(31,12): warning C4013: 'add_book' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\main.c(35,24): warning C4013: 'display_bkcollection' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\main.c(39,13): warning C4013: 'modify_bk' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\main.c(43,64): warning C4013: 'number_of_books_in_db' undefined; assuming extern returning int
+C:\Users\jju\source\repos\Library\Library\main.c(24,8): warning C4101: 'command': unreferenced local variable
+  Generating Code...
+  Library.vcxproj -> C:\Users\jju\source\repos\Library\Debug\Library.exe
